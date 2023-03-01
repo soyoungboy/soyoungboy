@@ -1,6 +1,12 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soyoungboy&count_private=true&show_icons=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=soyoungboy&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungboy&layout=compact&theme=tokyonight" alt="languages" height="165" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungboy&layout=compact)](https://github.com/soyoungboy/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=soyoungboy" alt="my github stats" height="195"  />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungboy" alt="languages"  height="195" />
+</p>
 
 - 🔭 I’m currently working on China.
 - 🌱 I’m currently using Android,HarmonyOS,JavaEE, Kotlin, Dart, Flutter... 
